@@ -1,2 +1,2 @@
 # virtualkeyboard
-virtualkeyboard for machine2
+virtualkeyboard for machine
